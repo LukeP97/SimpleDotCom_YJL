@@ -1,4 +1,4 @@
-package edu.cs.saintjoe.yohanesl.SimpleDotCom_YJL;
+package Pakage;
 
 public class SimpleDotCom {
 	// These next two are our instance variables
